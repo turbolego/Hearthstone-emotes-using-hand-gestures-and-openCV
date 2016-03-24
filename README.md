@@ -4,10 +4,10 @@ Coded by Tobias Andersen and designed by Sindre Säfvenbom.
 
 # Requisites:
 
-[OpenCV 2.2](http://opencv.org/downloads.html)
-[Python 2.7](https://www.python.org/)
-[Hearthstone](http://us.battle.net/hearthstone/en/)
-Webcam
+-[OpenCV 2.2](http://opencv.org/downloads.html)
+-[Python 2.7](https://www.python.org/)
+-[Hearthstone](http://us.battle.net/hearthstone/en/)
+-Webcam
 
 # First time use:
 
@@ -24,4 +24,5 @@ Webcam
 
 [Youtube - OpenCV test #1: Hearthstone Emotes using Webcam!](https://www.youtube.com/watch?v=DuG9nvdnLBI)
 
-# Notes: the included classifiers (hearthstone.xml and myfacedetector.xml) were made under light and hue conditions that may be different from yours. This may affect the precision.
+# Notes:
+The included classifiers (hearthstone.xml and myfacedetector.xml) were made under light and hue conditions that may be different from yours. This may affect the precision.

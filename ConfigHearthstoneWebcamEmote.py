@@ -6,11 +6,6 @@ import tkMessageBox
 root = Tk()
 root.wm_title("Config for Hearthstone WebCam Emote")
 Label(text= "Click on your screen resolution, then click the Start button:").grid(row=0, columnspan=6)
-# frame = Frame(root)
-# frame.pack()
-
-# bottomframe = Frame(root)
-# bottomframe.pack( side = BOTTOM )
 
 def start():
     os.system('python HearthstoneWebcamEmote.py')

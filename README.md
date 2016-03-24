@@ -4,10 +4,10 @@ Coded by Tobias Andersen and designed by Sindre Säfvenbom.
 
 # Requisites:
 
--[OpenCV 2.2](http://opencv.org/downloads.html)
--[Python 2.7](https://www.python.org/)
--[Hearthstone](http://us.battle.net/hearthstone/en/)
--Webcam
+1. [OpenCV 2.2](http://opencv.org/downloads.html)
+2. [Python 2.7](https://www.python.org/)
+3. [Hearthstone](http://us.battle.net/hearthstone/en/)
+4. Webcam
 
 # First time use:
 

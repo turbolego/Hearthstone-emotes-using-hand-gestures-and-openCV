@@ -26,3 +26,8 @@ Coded by Tobias Andersen and designed by Sindre Säfvenbom.
 
 # Notes:
 The included classifiers (hearthstone.xml and myfacedetector.xml) were made under light and hue conditions that may be different from yours. This may affect the precision.
+Both classifiers were made from scratch by using the guide written by Mahdi Rezaei from The Department of Computer Science, the University of Auckland.
+
+Link to said guide: [Creating a Cascade of Haar-Like Classifiers: Step by Step](https://www.researchgate.net/publication/259584296_Tutorial-_Creating_a_Cascade_of_Haar-like_Classifiers_Step_by_Step)
+
+You can change the classifier by editing line 15 in "HearthstoneWebcamEmote.py"

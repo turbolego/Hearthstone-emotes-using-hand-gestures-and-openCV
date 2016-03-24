@@ -2,6 +2,9 @@
 This is a short test for hearthstone emotes using hand gestures and openCV.
 Coded by Tobias Andersen and designed by Sindre Säfvenbom.
 
+![Screenshot from testing](https://raw.githubusercontent.com/turbolego/Hearthstone-emotes-using-hand-gestures-and-openCV/master/test1.png)
+
+
 # Requisites:
 
 1. [OpenCV 2.2](http://opencv.org/downloads.html)

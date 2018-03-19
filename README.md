@@ -26,7 +26,7 @@ Coded by Tobias Andersen and designed by Sindre Säfvenbom.
 
 [Youtube - OpenCV test #1: Hearthstone Emotes using Webcam!](https://www.youtube.com/watch?v=DuG9nvdnLBI)
 
-[![Screenshot from testing](https://img.youtube.com/vi/DuG9nvdnLBI/0.jpg](https://www.youtube.com/watch?v=DuG9nvdnLBI "Youtube - OpenCV test #1: Hearthstone Emotes using Webcam!")
+[![Screenshot from testing](https://img.youtube.com/vi/DuG9nvdnLBI/0.jpg)](https://www.youtube.com/watch?v=DuG9nvdnLBI "Youtube - OpenCV test #1: Hearthstone Emotes using Webcam!")
 
 # Notes:
 The included classifiers (hearthstone.xml and myfacedetector.xml) were made under light and hue conditions that may be different from yours. This may affect the precision.
